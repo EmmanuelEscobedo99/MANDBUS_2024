@@ -1,0 +1,52 @@
+.contenedor_colaboracion{
+
+    width: 1880px;
+    height: 850px;  
+    margin-left: 15px;     
+    background: url("../public/imagenes/web-fondo.jpg") no-repeat center fixed;
+    background-size: cover; /* Esto ajustará la imagen para que cubra todo el contenedor */
+    background-position: center;
+    overflow: 'auto';
+   
+}
+
+    .contenedor_prin_col {
+    margin-left: 100px;     
+    width: 1700px;
+    height: auto;  
+    }
+
+    .b-col{
+    margin-top: 50px;   
+    width: 300px;
+    height: 40px;
+    background-color: black;
+    color: aliceblue;
+
+    }
+
+
+    .datosColaboracion{
+        margin-top: 40px;
+        margin-left: 500px;
+    }
+
+
+
+    .btn-imo{
+        margin-top: 80px;
+        margin-left: 20px;
+        width: 300px;
+        height: 40px;
+        background-color: black;
+        color: aliceblue;
+    }
+
+    .mensaje{
+        
+        margin-left: 550px;
+    }
+
+    .mensaje h4{
+        color: blue;
+    }

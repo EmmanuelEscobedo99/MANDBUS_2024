@@ -1,0 +1,244 @@
+
+.edicion_componente_seleccion{
+        
+    width: 1920px;
+    height: 910px;
+    
+    background-size:cover;
+    background:url("../public/imagenes/web-fondo.jpg") no-repeat center fixed;
+    background-position: center center;
+    background-position: center center;
+    background-attachment: fixed;
+    -webkit-background-size: cover;            
+
+    position: absolute;
+}
+
+
+.componente_seleccion{
+    margin-top: 100px;
+    margin-left: 450px;
+    width: 1000px;
+    height: 700px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+    border:3px solid rgb(174, 171, 189);
+    padding: 50px;   
+
+}
+
+
+.componente_seleccion p{
+    color: black;
+}
+
+
+
+
+.titulo-del-sel{
+    margin-left: 100px;
+}
+
+.subtit-del-sel{
+    margin-left: 30px;   
+}
+
+p{
+    margin-left: 30px;
+    color:  rgb(219, 222, 224); 
+}
+
+.delitos-modificacion{
+    margin-left: 30px; 
+}
+
+.delitos-modificacion label{
+    color:  rgb(219, 222, 224);  
+}
+
+
+.boton-mod-delito{
+ margin-top: 20px;
+ margin-left: -70px;
+
+}
+
+#input-modificacion{
+    color: rgb(3, 1, 1);
+}
+
+/*  componente modificacion delitos agregar   */
+
+
+.componente_mod-del-agregar{
+        
+    width: 1920px;
+    height: 910px;
+    background-size:cover;
+    background:url("../public/imagenes/web-fondo.jpg") no-repeat center fixed;
+    background-position: center center;
+    background-position: center center;
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+
+
+    position: absolute;
+}
+
+
+.agregar_reg_modificacion{
+    margin-top: 100px;
+    margin-left: 500px;
+    width: 800px;
+    height: 600px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+    padding: 50px;
+    border:3px solid rgb(144, 140, 194);
+
+    
+}
+
+
+.titulo-del-agregar{
+    margin-left: 100px;
+}
+
+.cont_agregar_del{
+    margin-top: 70px;
+    margin-left: 40px;
+    width: 600px;
+    height: 350px;
+    background-color: rgb(255, 255, 255);
+}
+
+#botones_ctrl_reg{
+    margin-left: 60px;
+    
+}
+
+#btn-control-reg{
+    margin-top: 70px;
+    width: 200px;
+    height: 35px;
+    margin-left: 25px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+}
+
+ .delito-seleccionado-select{
+    margin-top: 10px;
+    margin-left: 80px;
+ } 
+
+ .delito-seleccionado-select p {
+    color:rgb(0, 0, 0);
+ }
+
+  
+
+/* amparo selecionado        */
+
+.edicion_componente_sel_amp{
+        
+    width: 1920px;
+    height: 910px;
+    background-size:cover;
+    background:url("../public/imagenes/web-fondo.jpg") no-repeat center fixed;
+    background-position: center center;
+    background-position: center center;
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+    position: absolute;
+}
+
+.componente_seleccion_amp{
+    margin-top: 60px;
+    margin-left: 450px;
+    width: 1000px;
+    height: 800px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+    padding: 50px;
+    border:3px solid rgb(165, 164, 170);
+
+}
+
+.datos-sel-amp p{
+    color: rgb(109, 109, 109);
+}
+
+
+
+
+.titulo-amp-sel{
+    margin-left: 100px;
+}
+
+.subtit-amp-sel{
+    margin-left: 100px;   
+}
+
+
+.modificcion-amp-sel{
+    background-color: chartreuse;
+    margin-left: 120px; 
+}
+
+
+ .datos-amp{
+    margin-top: 40px;
+    margin-left: 70px;
+ }
+
+.amp-modificacion{
+ 
+ margin-left: 100px;
+ width: 700px;
+ height: 400px;
+
+}
+
+.amp-modificacion label{
+    color: aliceblue;
+}
+
+
+.botones-mod-amp{
+    padding: 10px;
+    width: 800px;
+    height: 40px;
+}
+
+
+.btn-modificar-amp{
+    margin-left: 150px;
+    width: 200px;
+    height: 40px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    color: black;
+}
+
+.btn-regresar-amp{
+    width: 200px;
+    height: 40px;
+    background-color: rgb(255, 255, 255);
+    margin-left: 30px;
+    border-radius: 10px;
+    color: black;
+}
+
+#sub-titulos-tabla label{
+color: black;
+font-size: 17px;
+}
+
+.mensaje-desabilitado {
+    color: rgb(255, 7, 7);   
+    margin-top: 10px;
+}
+
+
+
+

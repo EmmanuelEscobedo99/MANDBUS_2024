@@ -1,0 +1,201 @@
+.contenedor_dom{
+    width: 1880px;
+    height: 840px;  
+    margin-left: 10px;        
+    background: url("../public/imagenes/fondo_3.jpg") no-repeat center fixed;
+    background-size: cover; /* Esto ajustará la imagen para que cubra todo el contenedor */
+    background-position: center;
+    
+   
+   }
+
+  
+
+   .barra1{
+    margin-left: 0px;
+    width:  1300px;
+    height: 1px;
+    background-color: #0a0a0a;
+    
+    }
+
+
+   #botones{
+    margin-top: 50px;
+    margin-left: 400px;
+   
+   }
+
+    .btn{
+        background-color: #BCC8CC;
+        color: black;
+        border-color: #BCC8CC;
+        margin-left: 30px;
+    }
+
+    .btn:hover{
+        background-color: #E6E8E8; 
+        color: black; 
+        border-color: #BCC8CC;
+    }
+
+
+
+    /*colaboracion */
+
+     #btn-reg{
+        margin-top: 100px;
+        margin-left: 150px;
+     }
+
+
+
+
+    
+
+     
+
+/* imagen  */
+
+.contenedor_img{
+    width: 1880px;
+    height: 840px;  
+    margin-left: 20px;
+    padding: 50px;
+    background-color: blueviolet;
+    background-size:cover;
+    background:url("../public/imagenes/web-fondo.jpg") no-repeat center fixed;
+    background-position: center center;
+    background-position: center center;
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+
+
+}
+.contenedor_imagen{
+   
+    width: 1700px;
+    height: 750px; 
+    /*border: 2px solid #F8F9F9;   */
+    margin-left: 50px;
+    overflow: hidden;
+    
+}
+
+
+ .componente{
+  margin: 1em;
+  background-color: rgb(167, 182, 192);
+  color: black;
+  float: left;
+ }
+ .componente2{
+    margin: 1em;
+    background-color: rgb(200, 202, 196);
+    color: black;
+    float: left;
+   }
+
+   h5{
+    margin-left: 120px;
+
+   }
+
+ #item1{
+   
+height: 660px; 
+width: 800px;
+ }
+
+ #item2{
+   
+height: 660px; 
+width: 820px;
+ }
+ 
+
+ #formulario{
+   margin-left: 40px;
+
+ }
+
+
+ #btn-img{
+    border: #F8F9F9;
+    
+ }
+
+ .barra_i {
+    margin-left: 0px;
+    width:  670px;
+    height: 1px;
+    background-color: #050505;
+    
+}
+
+.barra_im {
+    margin-left: 0px;
+    width:  850px;
+    height: 1px;
+    background-color: #050505;
+    
+}
+
+
+
+.contenedor_on2{
+    
+    margin-left: 1000px;
+    width:  850px;
+    height: 500px;
+   
+}
+
+
+   
+
+
+    .barra2_on{
+        margin-left: 0px;
+        width:  850px;
+        height: 2px;
+        background-color: #0a0a0a;
+        
+        }
+
+
+
+
+
+        
+
+
+        .lista{
+            margin-top: 20px;
+            
+            width: 1400px;
+            height: 450px;     
+            margin-left: 250px;
+            background-color: rgb(154, 170, 165);
+
+        }
+
+        .archi{
+          padding: 10px;
+        }
+
+        .b-img1{
+            width: 200px;
+            height: 50px;     
+            margin-left: 20px;
+            background-color: rgb(0, 0, 0);
+            color: #E6E8E8;
+        }
+
+        .b-img2{
+            width: 200px;
+            height: 50px;     
+            margin-left: 70px;
+            background-color: rgb(0, 0, 0);
+            color: #E6E8E8;
+        }

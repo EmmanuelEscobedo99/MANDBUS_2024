@@ -1,0 +1,156 @@
+   .contenedor_del{
+    width: 1900px;
+    height: 820px;  
+    margin-left: 10px;  
+     /*  
+    background: url("../public/imagenes/web-fondo.jpg") no-repeat center fixed;
+    background-size: cover;
+    background-position: center; */   
+   
+   }
+    
+   .contenedor_prcpl{    
+    padding: 10px;
+    width: 600px;
+    height: 700px;     
+    margin-left: 300px;
+    background-color: rgb(248, 244, 244);
+    position:absolute;
+    border-radius: 10px;
+    box-shadow: 10px 5px 5px rgb(198, 207, 218);
+   }
+
+   
+   .contenedor_del_lista{
+    margin-top: 2px;
+    background-color: rgb(248, 244, 244);
+    margin-left: 1000px;
+    width: 600px;
+    height: 700px; 
+    border-radius: 10px;
+    box-shadow: 10px 5px 5px rgb(198, 207, 218);
+  }
+
+    #dir_btn{
+        margin-top: 150px;
+        margin-left: 400px;
+    }
+
+    .barra_del{
+       margin-top: 40px;
+        margin-left: 0px;        
+        width:  580px;
+        height: 1px;
+        background-color: #000000;       
+    }
+
+    #btn{
+      margin-top: 200px;
+      width:180px;
+      margin-left: 80px;
+      background-color: #ffffff;
+      border: #070707;
+      color: #080808;
+      font-size: 14px;
+      border:3px solid rgb(8, 8, 8);
+      border-radius:22px;
+    }
+
+    #btn:hover{
+        background-color: #E6E8E8;
+        color: #000000;
+      }  
+      
+
+      .div-delselec{
+        width:  400px;
+        height: 100px; 
+      
+      }
+ 
+       .del-sel{
+        padding: 0px;
+       }
+
+       
+       .div-delselec p{  
+        margin-left: 10px;     
+        color: rgb(47, 48, 48);
+       }
+
+
+
+
+
+
+
+
+      #input-mdldad{
+        margin-left: 100px;
+        margin-top: 120px;
+      }
+
+      label{
+        line-height: 30px;       
+        color: black;
+      }
+
+      #btn-reg-del{
+        margin-left: 150px;
+        margin-top: 200px;        
+      }
+
+      #input1{
+        margin-left: 150px;
+      }
+      #input2{
+        margin-left: 130px;
+      }
+
+      #tex{
+        padding: 10px;
+      }
+      
+      .tabla{
+        margin-left:50px ;
+        width: 500px;
+      }
+      
+      .delito-seleccionado p{
+        color: rgb(171, 252, 124);
+      }
+
+.del-sel{
+  margin-left: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

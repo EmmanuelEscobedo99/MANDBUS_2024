@@ -1,0 +1,56 @@
+.contenedor_media_fili{
+    background-size:cover;
+    background:url("../public/imagenes/web-fondo.jpg") no-repeat center fixed;
+    background-position: center center;
+    background-position: center center;
+    background-attachment: fixed;
+    -webkit-background-size: cover;   
+    width: 1920px;
+    height: 840px;
+}
+
+.contenedor_p_media{    
+    padding: 100px;
+    width: 600px;
+    height: 800px;     
+    margin-left: 150px;
+    background-color: rgb(217, 224, 222);
+    position: absolute; 
+}
+
+.b-mf{
+    
+    width: 200px;
+    height: 40px;
+    background-color: rgb(0, 0, 0); 
+    color: aliceblue;
+}
+
+.lista_mf{
+               
+    width: 1000px;
+    height: 790px;     
+    margin-left: 830px;
+    background-color: rgb(154, 170, 165);
+
+
+}
+
+.archi{
+    padding: 50px;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

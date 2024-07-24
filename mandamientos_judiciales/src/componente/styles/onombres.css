@@ -1,0 +1,48 @@
+.contenedor_onombres{
+    top: 100px;
+    background-color: rgb(167, 182, 192);
+    margin-left: 70px;
+    width:  700px;
+    height: 750px;
+    
+    position: absolute;
+
+}
+
+.barra1_onombres{
+ margin-left: 10px;
+    width:  700px;
+    height: 2px;
+    background-color: #0a0a0a;
+    
+    }
+
+.btn_Onomb{
+    margin-top: 200px;
+    background-color: #000000;
+    color: rgb(255, 255, 255);
+    margin-left: 150px;
+    width:  150px;
+    height: 40px;
+   
+}
+
+#inputONonbre{
+    margin-left: 50px;
+}
+
+label{color: rgb(2, 2, 2);}
+
+
+
+
+.contenedor_onombres_der{
+    top: 100px;
+    background-color: rgb(200, 202, 196);
+    margin-left: 950px;
+    width:  900px;
+    height: 750px;
+    
+    position: absolute;
+
+}

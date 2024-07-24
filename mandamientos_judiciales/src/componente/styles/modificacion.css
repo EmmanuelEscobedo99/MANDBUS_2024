@@ -1,0 +1,421 @@
+.modificacion-contenedor {
+  width: 1890px;
+  height: 825px;
+  margin-left: 10px;
+  background-color: #fafafa;
+
+  
+  background: url("../public/imagenes/web-fondo.jpg") no-repeat center fixed;
+  background-size: cover; 
+  background-position: center;   
+
+}
+
+.modificacion-vista {
+  margin-left: 200px;
+  width: 1500px;
+  height: 810px;
+  background-color: #5e6886;
+  position: absolute;
+}
+
+.inputs-busqueda {
+  padding: 20px;
+  margin-left: 100px;
+  width: 1300px;
+  height: 200px;
+  background-color: #6379be;
+}
+
+.inputs-busqueda h5 {
+    margin-left: 350px;
+    font-size: 28px;
+    color: rgb(215, 218, 221);
+
+}
+
+.mensaje-error{
+ 
+  margin-top: 20px;
+  margin-left: 80px;
+  width: 800px;
+  height: 20px;
+
+}
+.mensaje-error h5{
+    color: aquamarine;
+}
+
+
+
+.inputs-busqueda label {
+    margin-left: 70px;
+    color: aliceblue;
+}
+ 
+
+
+.btn-busq { 
+  width: 150px;
+  height: 40px;
+  background-color: #a8b8eb;
+  color: aliceblue;
+}
+
+.campo-tabla {
+  margin-left: 100px;
+  margin-top: 10px;
+  width: 1300px;
+  height: 530px;
+  background-color: #a8b8eb;
+}
+
+.div_buton{
+   
+    margin-top: 35px; 
+}
+
+
+
+
+/*  componente modif reg  */
+
+
+.modRegistro-componente{
+    width: 1890px;
+    height: 825px;
+    margin-left: 10px;
+
+    /*
+    background: url("../public/imagenes/web-fondo.jpg") no-repeat center fixed;
+    background-size: cover; 
+    background-position: center;    */
+    position: absolute;
+
+}
+
+
+.dialRegistro-componente{
+    margin-left: 200px;
+    width: 1500px;
+    height: 810px;
+    background-color: #ffffff;
+    position: absolute;
+    border:2px solid rgb(107, 105, 105);
+   
+
+}
+
+
+
+
+
+
+
+.contenedor-menu{
+    width: 1500px;
+    height: 100px;
+    background-color: #c7cad3;
+    position: absolute;
+   
+}
+
+#boton_menu{
+    margin-left: 0px;
+    width: 200px;
+    height: 100px;
+    background-color: #525863;
+    color: #ffffff;
+}
+
+#boton_menu:hover{  
+  background-color: #838fa5;
+  color: #ffffff;
+}
+
+
+.botones-contenedor button:hover {
+    background-color: #4765be; 
+}
+
+
+.botones-contenedor {
+    display: flex;
+   
+}
+.botones-contenedor button {
+    flex: 1;
+}
+
+.contenido{
+    width: 1500px;
+    height: 710px;   
+    position:fixed;
+
+}
+
+.aviso_modificacion{
+  width: 700px;
+  height: 200px;
+  margin-left: 400px;  
+  margin-top: 150px; 
+  position: fixed;
+  background-color: #505c68;
+  border-radius:15px;
+}
+
+.mensaje-aviso{
+  width: 670px;
+  height: 130px;
+  margin-left: 10px;  
+  margin-top: 10px;  
+  position: fixed;
+  border-radius: 15px;
+}
+
+.btn-finalizarM{
+  margin-top: 50px; 
+  width: 200px;
+  height: 40px;
+  margin-left: 230px; 
+  background-color: #dfdbdb;
+  border-radius: 5px;
+  color: #000000;
+  border-radius:15px;
+}
+
+
+.btn-finalizarM:hover{ 
+  background-color: #818585;
+}
+
+.mensaje-aviso h5{
+  margin-top: 40px; 
+  margin-left: 70px; 
+  color: #e0e0e0;
+}
+
+
+
+/*  modificacion delitos   */
+
+
+.componente-delitos{
+  width: 1460px;
+  height: 640px;
+  margin-left: 20px;  
+  margin-top: 50px; 
+  position: absolute;
+ /* background-color: #5e6886;   */
+ 
+
+
+}
+
+/* 1 fila */
+.datos-nmod-delitos{
+  width: 400px;
+  height: 580px;
+  margin-left: 20px;  
+  margin-top: 30px; 
+  position:fixed;
+ /* background-color: #5e6886;  */   
+ 
+
+}
+
+.datos-nmod-delitos h5{
+  color: azure;
+  margin-left: 90px;
+  font-size: 25px;
+
+}
+
+
+/* 2 fila*/
+.datos-lista-delitos{
+  width: 500px;
+  height: 580px;
+  margin-left: 445px;  
+  margin-top: 70px; 
+  position:absolute;
+ 
+ /* background-color: #5e6886;   */
+ 
+
+
+}
+
+/*3 fila */
+.modificar-lista-delitos{
+  width: 480px;
+  height: 580px;
+  margin-left: 970px;  
+  margin-top: 37px; 
+  position: absolute;
+ /* background-color: #5e6886;   */
+ 
+
+}
+
+
+.seleccionar_reg {
+ 
+  background-color: #8d8fa1;
+  color: #ffffff;
+  border-radius: 5px;  
+}
+
+.seleccionar_reg:hover {
+  background-color: #c9d0d3;   
+  color: #000000;
+}
+
+
+/*  campo modificacion    */
+
+.ver-datos-seleccionados{
+  width: 480px;
+  height: 150px;
+  background-color: #6680d6;
+  position: absolute;
+  padding: 15px;
+  border-radius: 10px;
+}
+
+.ver-datos-seleccionados h4{
+  margin-left: 70px;  
+  color: aliceblue;
+}
+
+.ver-datos-seleccionados p{
+  margin-left: 30px;  
+  color: rgb(243, 243, 243);
+}
+
+.ver-datos-seleccionados h2{
+  margin-left: 80px;  
+  color: rgb(116, 218, 124);
+}
+
+.barra-dselecionados{
+  width: 480px;
+  height: 2px;
+  background-color: #fafafa;
+}
+
+.campo-modificcion{
+  margin-top: 165px;
+  width: 480px;
+  height: 300px;
+  background-color: #6680d6;
+  border-radius: 10px;
+}
+
+
+
+
+.cont_principal_aviso  {
+  width: 1915px;
+  height: 915px;
+  background-color: #ffffff;
+  position: absolute;
+}
+
+.cont_block_aviso {
+  width: 90px;
+  height: 500px;
+  background-color: #ffffff;
+  margin-left: 500px;  
+  margin-top: 200px;
+  border:3px solid rgb(178, 177, 180);
+  border-radius: 20px;
+  position: absolute;
+}
+
+.cont_block_aviso h3 {
+  width: 900px;
+  height: 100px;
+  color: #6a6f7e;
+  background-color: #dbeef1;
+} 
+
+.cont_btn_aviso{
+  margin-left: 150px;  
+  margin-top: 100px;
+  width: 600px;
+  height: 100px;  
+ 
+}
+
+.btn-aviso{
+  width: 250px;
+  height: 50px;  
+  margin-left: 150px;  
+  border-radius: 10px;
+  background-color: #dbeef1;
+  color: #070606;
+  font-size: 20px;
+}
+
+
+.barra-busqueda-cambio{
+  width: 350px;
+  height: 750px;  
+  margin-left: 1500px;
+  background-color: rgb(104, 110, 122);
+  position: absolute;
+}
+
+
+
+
+.mensaje_busqueda {
+  margin-left: 10px;
+  color: #2d3f77;
+}
+
+.btn-bus-camb{
+  width: 280px;
+  height: 37px; 
+  
+}
+
+
+.titulo-cambio p{
+  margin-left: 50px;
+  margin-top: 30px;
+  color: #000000;
+  font-size: 20px; 
+} 
+
+.boton-busq{  
+  margin-left: 23px;
+  width: 250px;
+  height: 37px;  
+  background-color: rgb(212, 218, 216);
+}
+
+.titulo-cm{
+  margin-left: 0px;
+  color: #000000;
+}
+
+.controles-cambio{
+  margin-top: 10px;
+  width: 1000px;
+  height: 60px;  
+  margin-left: 500px;  
+    
+}
+
+
+
+
+
+
+
+
+
+
+ 

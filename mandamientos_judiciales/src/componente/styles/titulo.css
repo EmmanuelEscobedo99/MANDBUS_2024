@@ -1,0 +1,30 @@
+
+
+
+.header_titulo{  
+    background-size:cover;   
+    margin-left: 50px;
+    width:  1830px;   
+    border: 2px solid;
+}
+
+/* CSS */
+.navbar-brand h3 {
+    margin-top: 20px;
+    color: #ffff; /* Cambia el color del texto a verde */
+  }
+
+  .navbar-nav .nav-link h5 {
+    margin-top: 20px;
+    color: #ffff; /* Cambia el color del texto a rojo */
+  }
+  
+  .navbar-brand h4 {
+    margin-top: 15px;
+    color: #dddbdb; /* Cambia el color del texto a verde */
+  }
+
+  .navbar{
+    background-color:#2A2F3E;  
+   
+  }

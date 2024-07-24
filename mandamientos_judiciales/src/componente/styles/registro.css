@@ -1,0 +1,191 @@
+.contenedor_registro{
+    width: 1900px;
+    height: 830px; 
+    /* 
+    margin-left: 10px;
+    background-size:cover;
+    background:url("../public/imagenes/web-fondo.jpg") no-repeat center fixed;
+    background-position: center center;    
+    background-attachment: fixed;
+    -webkit-background-size: cover;  */
+
+  }
+
+   .barra-lateralR{
+    width: 330px;
+    height: 835px;
+    margin-left: 0px;
+    margin-top: 0px;
+    background-color:#222d32;;
+    position: absolute;
+   }
+ 
+
+   .for-reg{
+    margin-left: 400px;
+    margin-top: 0px;
+    padding: 0px;
+    width: 1200px;
+    height: 180px;
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+
+   }
+
+   
+  .div-titulo h3{   
+    width: 250px;
+    height: 50px;
+    background: #ffffff;
+  }
+
+  #div-primero{
+    margin-left: -10px;
+  
+  }
+
+  #div-final{
+    margin-left: 380px;
+    
+  }
+
+  .ct label {
+    color: #f8f8fa;
+  }
+
+  .ct{
+   
+    padding: 20px;
+    margin-left: 50px;
+    width: 1400px;
+    height: 800px;
+  }
+ 
+
+  .barra1{
+    margin-left: 0px;
+    width:  1800px;
+    height: 1px;
+    background-color: #000000;
+    
+}
+  
+.barra2{
+    margin-left: 10px;
+    width:  1580px;
+    height: 1px;
+    background-color: #4E4C8F;
+  }
+  
+  .barra3{
+    margin-left: 10px;
+    width:  1880px;
+    height: 1px;
+    background-color: #4E4C8F;
+  }
+
+  #botones-regi{   
+    position: fixed;
+    display: flex;
+    width:  300px;
+    height: 40px;
+    margin-left: 900px;
+    position: absolute;
+    transform: translateX(-50%);
+    justify-content: space-around;
+    transform: translateX(-50%);
+    top: 700px;
+   }
+
+   #btn-r1  {
+    margin-left: -160px;
+    padding: 10px;
+    width: 200px;
+    height: 50px;
+    background-color: #ffffff;
+    border: #070707;
+    color: #080808;
+    font-size: 14px;
+    border:3px solid rgb(8, 8, 8);
+    border-radius:22px;
+   }
+
+
+    
+   #btn-r3{
+    width:  200px;
+    height: 50px;
+    text-decoration: none;
+    padding: 12px;
+    margin-left: 30px;     
+    background-color: #fffafa;
+    color: #000000;
+    font-size: 14px;
+    border:3px solid rgb(8, 8, 8);
+    border-radius:22px;
+    
+  }
+
+
+  #btn-r1:hover {
+    background-color:#5a5c5c;
+    border-color: #717174;
+    color: #fffcfc;
+  }
+
+  #btn-r3:hover{
+    background-color: #5a5c5c;
+    color: #fffefe;
+  }
+
+   #datos{
+    margin-left: 0px;
+   }
+
+   .ct label{
+    color: #080808;
+    font-size: 12px;
+   }
+
+
+
+
+   #div-reg{
+    
+    width: 300px;
+    height: 90px; 
+    padding: 2px;
+   }
+
+   #div-reg2{
+    
+    width: 100px;
+    height: 90px; 
+    padding: 2px;
+   }
+      
+   #div-reg3{    
+    width: 150px;
+    height: 90px; 
+    padding: 2px;
+   }
+ 
+   #div-reg4{    
+    width: 400px;
+    height: 90px; 
+    padding: 2px;
+   }
+ 
+    .b-btn-reg{
+      margin-top: 140px;
+      margin-left: -10px;
+      width: 1200px;
+      height: 2px;
+      background-color: #070707; 
+
+    }
+
+
+
+
+   /*   checar el div con id de registrar    */

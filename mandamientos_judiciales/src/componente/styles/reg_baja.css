@@ -1,0 +1,215 @@
+.componente_prici{
+    width: 1890px;
+    height: 825px;  
+    margin-left: 10px;     
+    background: url("../public/imagenes/web-fondo.jpg") no-repeat center fixed;
+    background-size: cover; /* Esto ajustará la imagen para que cubra todo el contenedor */
+    background-position: center; 
+}
+
+.componente_registro{
+    margin-left: 200px;
+    width: 1500px;
+    height: 750px;
+    background-color:#5E6886;
+    position: absolute;
+}
+
+#input-lista{
+  height: 30px;
+}
+
+ /* lista datos   */ 
+.lista-datosRB label{
+  color: rgb(229, 232, 245);
+}
+
+.select-container p {
+  color: rgb(229, 232, 245);
+}
+
+.select-container label{
+  color: rgb(229, 232, 245);
+}
+
+.datos h4{  
+  color: rgb(229, 232, 245);
+}
+
+
+
+
+
+
+
+
+
+.aviso-error{
+    margin-top: 200px;
+    margin-left: 380px;
+    width:600px;
+    height: 150px;
+    background-color: #747577;
+}
+
+.aviso-error p {
+    padding: 25px;
+    margin-left: 55px;
+    color: rgb(213, 220, 226);
+}
+
+ .b-regresar{
+    margin-left: 250px;
+ }
+
+ .b-regresar button{
+    width:100px;
+    height: 35px;
+    color: rgb(213, 217, 219);
+    background-color: rgb(101, 102, 114);
+ }
+
+ .aviso-error {
+    display: none;
+  }
+  
+  .aviso-error.visible {
+    display: block; 
+  }
+
+
+  .datos{   
+    width:400px;
+    height: 750px;
+    background-color: rgb(94, 120, 206);
+  }
+
+  .bton{
+    width:300px;
+    height: 30px;
+
+  }
+
+
+  .lista-datosRB{
+    margin-left: 50px;
+    width:300px;
+    height: 350px;
+
+
+  }
+
+ 
+.label-select {
+  display: block; 
+  margin-bottom: 5px; 
+  margin-left:  120px;
+}
+
+.select-container {
+  position: relative; 
+}
+
+
+.select-container select {
+  position: absolute;
+  top: 30px; 
+  left: 60px; 
+  width: 70%; 
+}
+
+
+.select-container p{
+  margin-left:  120px;
+}
+
+
+.oculto {
+  display: none;
+}
+
+
+ .opcion1{
+  margin-left: 450px;
+  margin-top: -650px;
+  width:1000px;
+  height: 550px; 
+  position:absolute;
+ }
+  
+.opcion1 h4{ 
+  margin-left: 350px;
+  color: aliceblue;
+}
+
+ .div-fecha{
+  margin-left: 300px;
+  width: 400px; 
+  height: 50px; 
+  margin-top: 40px;
+  
+ }
+ .div-fecha label{
+  margin-left: 90px;  
+  color: aliceblue;
+ }
+
+  #b-fpre{
+    background-color: rgb(111, 122, 223);
+    color: aliceblue;
+    margin-left: 100px;
+    width: 200px; 
+    height: 35px; 
+    margin-top: 50px;
+  }
+
+  #oficio{
+    margin-top: 10px;
+    margin-left: 5px;
+    width: 400px; 
+    height: 35px; 
+  }
+
+  #b-fpre{
+    margin-top: 80px;
+  }
+
+
+  #titulo h4{
+    margin-left: 40px;
+  }
+
+  .motivo{
+    padding: 10px;
+    width: 400px; 
+    height: 35px; 
+  }
+
+
+  .oficio{
+    margin-top: 60px;
+    width: 400px; 
+    height: 35px; 
+  }
+
+  .tit-can h4{
+    margin-left: 410px;
+    color: #a7bdeb;
+  }
+
+  .barra-can{
+    margin-left: 150px;
+    width: 700px; 
+    height: 2px;
+    background-color:#a7bdeb;
+  }
+
+  .tit-cum h4{
+    margin-left: 380px;
+    color: #a7bdeb;
+  }
+
+  .tit-pre h4{
+    margin-left: 400px;
+    color: #a7bdeb;
+  }

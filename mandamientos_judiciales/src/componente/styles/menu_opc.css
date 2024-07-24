@@ -1,0 +1,180 @@
+
+
+   .contenedor_mo {
+    background-size:cover;
+    background:url("../public/imagenes/web-fondo.jpg") no-repeat center fixed;
+    background-position: center center;
+    background-position: center center;
+    background-attachment: fixed;
+    -webkit-background-size: cover;   
+      
+    margin-left: 2px;   
+    font-size: 2.5vh;
+    width: 1900px;
+    height: 890px;  
+    }
+    
+  
+   .centro{
+    border-radius: 20px 20px;
+    width: 500px;
+    height: 500px;
+    margin-top: 25px;
+    margin-left: 25px;
+    background-color: #cad7e0;  
+   }
+
+    h4{        
+        margin-left: 100px;
+        color: rgb(61, 60, 60);  
+    }
+
+
+    #boton{
+    font-size: 21px; 
+    margin-top: 40px;
+    margin-left: 50px;
+    border-color: #85929E;
+    width: 200px;
+    padding: 10px;
+    background-color:#85929E;
+    height: 60px; 
+      
+   }
+  
+   #boton:hover{
+    background-color:#AAB7B8 ;  
+   }
+
+   
+ #botonb{
+    font-size: 21px;
+    margin-top: 40px;
+    margin-left: 10px;
+    border-color: #85929E;
+    width: 200px;
+    padding: 10px;
+    background-color:#85929E;
+    height: 60px;   
+   }
+   
+   #botonb:hover{
+    background-color:#AAB7B8 ;
+   }
+  
+   
+   .boton-reg button {
+    margin-top: 100px;
+    margin-left: 100px;
+    color: #fffefe;
+    font-size: 20px;
+    width: 150px;
+    height: 50px;
+    background-color: #0e0d0d;
+    border: none;
+    border-radius: 5px;
+  }
+  
+  .boton-reg button:hover {
+    /* Estilos para el botón cuando el mouse está encima */
+    background-color: #464242;
+  }
+  
+.btn-terminar{
+    margin-left: 30px;
+    margin-top: 50px;
+}
+
+ .menuO{      
+    top: 100px;
+    margin-left: 545px;
+    width: 350px;
+    height: 720px;   
+    background-color:#58769e;
+    position:relative;
+    }
+  
+ .imagen {
+  top: 100px;
+  margin-left: 900px;
+  width: 1000px;
+  height: 720px;   
+  background-color: #777a77;
+  position: fixed;
+  background: url("../public/imagenes/reg.jpg");
+  background-size: contain; 
+  background-repeat: no-repeat; 
+}
+
+
+  .botTerm{
+    top: 420px;
+    margin-left: 220px;
+    width: 700px;
+    height: 60px;
+    background-color:#728dc9;
+    
+  }
+
+     h6{
+      padding: 20px;
+      margin-left: 40px;
+      margin-top: 20px;
+      color: #0d0e0d;
+    }
+
+     .sub-titu{
+      width: auto;
+      height: 120px;
+      background-color: rgb(165, 167, 161);
+     }
+     
+     .sub-titu h5{
+      
+      margin-left: 90px;      
+      color: #000000;
+      font-size: 25px;
+     }
+
+     .sub-titu h6{
+      margin-top: -20px;
+      margin-left: 78px; 
+      font-size: 18px;     
+      color: #000000;
+     }
+
+     .btn_lateral1{
+      background-color: #85929E;
+      text-decoration: none;
+      text-align: center;
+      padding: 5px;
+      margin-left: 12px;
+      width: 350px;
+      height: 50px;
+      margin-top: 100px;
+      color: #000000;
+     }
+      .barra_sep{
+        width: 350px;
+        height: 4px;
+      }
+
+     .btn_lateral2{      
+      background-color: #85929E;
+      text-decoration: none;
+      text-align: center;
+      padding: 5px;
+      margin-left: 12px;
+      width: 350px;
+      height: 50px;
+      margin-top: 0px;
+      color: #000000;
+     }
+
+     .btn_lateral1:hover{
+      background-color:#b2c4b9 ; 
+     }
+
+     .btn_lateral2:hover{
+      background-color:#b2c4b9 ; 
+     }

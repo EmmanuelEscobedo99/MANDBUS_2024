@@ -1,0 +1,60 @@
+
+.registro_con{
+    margin-left: 140px;
+    width: 1590px;
+    height: 980px;
+    background-color: aquamarine;
+
+}
+
+
+
+
+
+.cont-uno{
+    margin-left: 70px;
+    width: 1300px;
+    height: 90px;   
+    background-color: antiquewhite;
+    margin-top: 10px;
+   
+}
+
+.cont-dos{
+    margin-left: 70px;
+    width: 1300px;
+    height: 110px;
+    padding: 10px;
+    background-color: rgb(224, 145, 42);
+    margin-top: 30px;
+   
+   
+}
+
+.cont-tres{
+    margin-left: 70px;
+    width: 1300px;
+    height: 110px;
+    padding: 20px;
+    background-color: rgb(99, 174, 179);
+    margin-top: 30px;
+   
+   
+}
+
+.cont-cuatro{
+    margin-left: 70px;
+    width: 1300px;
+    height: 90px;
+    padding: 20px;
+    background-color: rgb(172, 104, 15);
+    margin-top: 20px;
+   
+   
+}
+
+
+#botones{
+    margin-top: 80px;
+   
+}

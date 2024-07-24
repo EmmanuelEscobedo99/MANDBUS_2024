@@ -1,0 +1,684 @@
+/* modificacion datos generales */
+
+.componente-dg{
+    margin-left: 0px;
+    width: 1500px;
+    height: 710px;
+    background-color: #ffffff;
+    position: absolute;
+    border:3px solid rgb(99, 98, 98);
+}
+
+
+/* barra lateral  */
+.datos-nmod{
+    margin-top:3px ;
+    margin-left: 3px;
+    width: 250px;
+    height: 697px;
+    background-color: #525863;
+    position: absolute;
+}
+
+
+
+.datos-lista-dgrls{
+    margin-left:350px ;
+    margin-top: 40px;
+    width: 900px;
+    height: 500px;
+   /* background-color: #5e6780;   */
+  
+}
+
+.dglrs-titulo p{   
+    width: 220px;
+    height: 50px;
+    color:#000000;
+    font-size: 25px;   
+}
+ 
+
+#lista-campos{
+    margin-left: 5px;
+}
+
+#lista-campos h5{
+    margin-left: 1px;
+    color: #d5d7da;
+}
+
+#lista-campos label{
+    margin-left: 20px;
+    color: #d0d1d4;
+}
+
+.datos-lista-dgrls h5{
+    color: #d5d8e0;
+    margin-left: 250px;
+    padding: 20px;
+}
+
+#tituloUno{
+   
+    margin-left: -270px;
+    position: absolute;  
+}
+
+#tituloUno h5{
+   
+    color: #000000;  
+}
+
+#tituloDos{
+
+    margin-left: 40px;
+    position: absolute;  
+}
+#tituloDos h5{
+    color: #000000; 
+}
+
+
+#boton-modif{
+    width: 250px;
+    height: 40px;
+    background-color: #fffefe;
+    color:#020202;
+    border-radius:22px;
+}
+
+#boton-modif:hover{
+    
+    background-color: #5c6c92;
+    color:#d5d7da;
+}
+
+
+
+/*  DELITOS    */
+.componente-del{
+    margin-left: 0px;
+    margin-top: 0px;
+    width: 1490px;
+    height: 700px;
+    background-color: #ffffff;
+   /* background-color: #5e6780; */
+    position: absolute;
+}
+
+#lista-campos-del{
+    margin-left: 10px;
+}
+
+#lista-campos-del p{
+    margin-left: 0px;
+    font-size: 20px;
+}
+
+
+#lista-campos p {
+    color: #000000;
+    font-size: 21px;
+    margin-left: 0px;
+}
+
+.datos-nmod-del{   
+    margin-left: 5px;
+    margin-top: 5px;
+    width: 250px;
+    height: 695px;
+    background-color: #525863;
+    position: absolute;
+}
+
+.datos-nmod-del label{  
+   color: #ffff;
+ }
+
+
+
+.datos-nmod-delitos h5 {
+    margin-left: 0px;
+}
+
+.datos-lista-modif-delitos{
+    width: 800px;
+    height: 670px;
+    margin-left: 310px;
+    margin-top: 30px;   
+    position: absolute;
+    
+}
+
+.datos-lista-modif-delitos h4{ 
+color: #faf8f8;
+}
+
+
+.modificacion-lista-del{
+    margin-left: 1170px;
+    margin-top: 60px;
+}
+
+
+
+#b-modif-cancelar{
+    margin-top: 5px;
+    margin-left: 30px;
+    width: 220px;
+    height: 40px;    
+    border-radius: 7px; 
+    background-color: #859ead;
+    color: #faf8f8;
+}
+
+#b-modif-reg{
+    margin-top: 5px;
+    margin-left: 30px;
+    width: 220px;
+    height: 40px;    
+    border-radius: 7px; 
+    background-color: #859ead;
+    color: #ffffff;
+}
+
+
+
+.btn-mod-delito{
+    margin-left: 200px;
+    width: 220px;
+    border-radius: 10px;
+    background-color: rgb(231, 216, 198);
+}
+
+.btn-can-delito{
+    margin-left: 70px;
+    width: 220px;
+    border-radius: 10px;
+    background-color: rgb(255, 110, 74);
+}
+
+/* modificacion proceso */
+
+.componente-proceso{
+    margin-left: 0px;
+    width: 1500px;
+    height: 710px;
+    background-color: #d5d8e0;
+
+}
+
+.datos-nmod-proceso{
+    margin-top: 5px;
+    margin-left: 5px;
+    width: 250px;
+    height: 700px;
+    background-color: #525863;
+    position: absolute;
+}
+
+.datos-lista-proceso{
+    margin-left:255px ;
+    width: 1240px;
+    height: 705px;
+    background-color: #ffffff;
+
+}
+/*  ***************       */
+.btn-modif-reg {
+    margin-top: 30px;
+    margin-left: 0px;
+    width: 180px;
+    border-radius: 10px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(5, 5, 5);
+}
+
+
+.modf-proc-titulo{
+    margin-left: 200px;
+    width: 800px;
+    height: 40px;
+    
+    background-color: rgb(255, 255, 255);
+    border:3px solid rgb(190, 190, 190);
+    border-radius:22px;
+
+
+}
+
+.mod-titulo{
+    position: absolute;
+    margin-right: 140px;
+   
+}
+
+
+.mod-titulo2{
+    margin-left: 370px;
+}
+
+#campo-modificacion-centro{
+    padding: 20px;
+    margin-top: 10px;
+    margin-left: 200px;
+    width: 800px;
+    height: 500px;
+    background-color: #ffffff;
+    border:3px solid rgb(190, 190, 190);
+    border-radius:22px;
+
+
+}
+
+/*   **********************************************************************************    */
+/* modificacion amparos */
+
+.componente-amp{
+    margin-left: 0px;
+    width: 1495px;
+    height: 705px;
+    background-color: #ffffff;
+    position: absolute;
+}
+
+.datos-nmod-amp{
+    margin-top: 2px;
+    margin-left: 3px;
+    width: 250px;
+    height: 700px;
+    background-color: #525863;
+    position: absolute;
+}
+
+
+.datos-lista-amp{
+    margin-left:255px ;
+    width: 1230px;
+    height: 675px;
+    background-color: #ffffff;
+
+}
+
+.lista-amparos-amodificar{
+    margin-left:55px ;
+    width: 900px;
+    height: 700px;
+    
+    position: absolute;
+}
+
+.lista-amparos-amodificar h4{
+    color: #faf8f8;
+}
+
+.btn-amparo-m{
+    margin-top: 25px;
+    margin-left:250px ;    
+    width: 250px;
+    height: 120px;
+}
+
+
+.btn-mod-amp{
+    margin-top: 10px;
+    background-color: #9a9b9c;
+    width: 250px;
+    height: 40px;
+    color: rgb(255, 255, 255);
+    border-radius: 10px;
+}
+.btn-can-amp{
+    margin-top: 5px;
+    background-color: #9a9b9c;
+    width: 250px;
+    height: 40px;
+    color: #ffffff;
+    border-radius: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* modificacion ministerial */
+
+.componente-min{
+    margin-left: 0px;
+    width: 1500px;
+    height: 710px;
+    background-color: #d5d8e0;
+
+}
+
+.datos-nmod-min{
+    width: 250px;
+    height: 710px;
+    background-color: #a0b0dd;
+    position: absolute;
+
+
+}
+
+
+.datos-lista-min{
+    margin-left:255px ;
+    width: 1245px;
+    height: 710px;
+    background-color: #546081;
+
+}
+
+
+
+
+/* modificacion colaboracion */
+
+.componente-col{
+    margin-left: 0px;
+    width: 1500px;
+    height: 710px;
+    background-color: #d5d8e0;
+
+}
+
+.datos-nmod-col{
+    width: 250px;
+    height: 710px;
+    background-color: #a0b0dd;
+    position: absolute;
+
+
+}
+
+
+.datos-lista-col{
+    margin-left:255px ;
+    width: 1245px;
+    height: 710px;
+    background-color: #546081;
+
+}
+
+
+
+/* modificacion  imagen*/
+
+.componente-img{
+    margin-left: 0px;
+    width: 1500px;
+    height: 710px;
+    background-color: #d5d8e0;
+
+}
+
+.datos-nmod-img{
+    width: 250px;
+    height: 710px;
+    background-color: #a0b0dd;
+    position: absolute;
+
+
+}
+
+
+.datos-lista-img{
+    margin-left:255px ;
+    width: 1245px;
+    height: 710px;
+    background-color: #546081;
+
+}
+
+.campo-modificacion-ministerial{
+    margin-top: 50px;
+    margin-left: 100px;
+    width: 1000px;
+    height: 400px;
+   
+}
+
+/* amparos  */
+.lista-amparos h4{
+  color: #f1f4f8;
+  padding: 10px;
+}
+
+
+.datos-lista-amparos{
+    width: 1250px;
+    height: 710px;
+    margin-left: 250px;
+    background-color: rgb(91, 92, 119);
+    position:absolute;
+}
+
+.lista-amparos{
+    width: 700px;
+    margin-left: 10px;
+   
+    position:absolute;
+}
+
+
+.modificar-lista-amparos{
+    width: 500px;
+    height: 510px;
+    margin-left: 730px;
+  
+}
+
+.modificar-lista-amparos h5{
+    color: #f1f4f8;
+    padding: 12px; 
+    margin-left: 60px;
+}
+
+#aviso{
+    color: rgb(205, 238, 56);
+}
+
+.ver-datos-seleccionados-amparos{
+    width: 500px;
+    height: 250px;
+    padding: 20px;
+    background-color: #9fa9e0;
+    border-radius: 7px;  
+}
+
+
+.btn-select-amp{
+    background-color: #adb1c7;
+    border-radius: 7px;  
+    color: #1b1b1b;
+}
+
+#input1-amparo{
+    color: #d5d7da;
+}
+
+
+/*      modificacion                     */
+
+
+
+
+
+
+/*  DELITOS    */
+.componente-delitos{
+    margin-left: 0px;
+    margin-top: 0px;
+    width: 1500px;
+    height: 710px;
+    background-color: #2a2d49;
+   /* background-color: #5e6780; */
+    position: absolute;
+}
+
+#lista-campos p {
+    color: #000000;
+    font-size: 21px;
+    margin-left: 0px;
+}
+
+.datos-nmod-delitos{   
+    margin-left: 0px;
+    margin-top: 0px;
+    width: 250px;
+    height: 710px;
+    background-color: #a0b0dd;
+    position: absolute;
+}
+
+.datos-nmod-delitos h5 {
+    margin-left: 0px;
+}
+
+.datos-lista-modif-delitos{
+    width: 800px;
+    height: 670px;
+    margin-left: 310px;
+    margin-top: 30px;   
+    position: absolute;
+}
+
+.datos-lista-modif-delitos h4{ 
+color: #faf8f8;
+}
+
+
+.modificacion-lista-del{
+    margin-left: 1170px;
+    margin-top: 60px;
+}
+
+
+
+#boton-modif-cancelar{
+    margin-top: 5px;
+    margin-left: 30px;
+    width: 220px;
+    height: 40px;
+    
+    border-radius: 7px; 
+    background-color: #cc2a14;
+    color: #faf8f8;
+}
+
+#boton-modif-reg{
+    margin-top: 5px;
+    margin-left: 30px;
+    width: 220px;
+    height: 40px;    
+    border-radius: 7px; 
+    background-color: #acd5ec;
+    color: #000000;
+}
+
+
+
+.btn-mod-delito{
+    margin-left: 200px;
+    width: 220px;
+    border-radius: 10px;
+    background-color: rgb(231, 216, 198);
+}
+
+.btn-can-delito{
+    margin-left: 70px;
+    width: 220px;
+    border-radius: 10px;
+    background-color: rgb(255, 110, 74);
+}
+
+
+
+
+
+.contenido_agregar{
+    width: 800px;
+    height: 670px;
+    margin-left: 310px;
+    margin-top: 30px;
+    position: relative;
+    background-color: #dd5656; 
+
+}
+
+
+/*   ************************           */
+
+
+
+/*    agregar amparo  */
+
+.componente_mod-amp-agregar{        
+    width: 1920px;
+    height: 910px;
+    background-size:cover;
+    background:url("../public/imagenes/web-fondo.jpg") no-repeat center fixed;
+    background-position: center center;
+    background-position: center center;
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+    position: absolute;
+}
+
+
+
+.agregar_amp_modificacion{
+    margin-top: 50px;
+    margin-left: 500px;
+    width: 800px;
+    height: 820px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+    padding: 50px;
+    border:3px solid rgb(175, 176, 180);
+}
+
+.titulo-amp-agregar{
+    margin-left: 200px;
+}
+
+.cont_agregar_amp{   
+    margin-left: 40px;    
+}
+
+
+.btn-mod-delagre{
+    margin-left: 150px;
+    width: 200px;
+    height: 40px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+}
+
+.btn-can-delagre{
+    margin-left: 150px;
+    width: 200px;
+    height: 40px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+}
+
+
+
+

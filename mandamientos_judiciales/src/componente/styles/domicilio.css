@@ -1,0 +1,58 @@
+.cont_domicil{
+    background-size:cover;
+    background:url("../public/imagenes/web-fondo.jpg") no-repeat center fixed;
+    background-position: center center;
+    background-position: center center;
+    background-attachment: fixed;
+    -webkit-background-size: cover;   
+width: 1920px;
+height: 840px;
+    
+}
+
+
+
+
+.contenedor_princ_dom{
+    top: 110px;
+    padding: 30px;
+    margin-left: 150px;
+    background-color: rgb(167, 182, 192);
+    width: 600px;
+    height: 750px;
+    position: absolute; 
+}
+
+
+#btnDomicilio{
+    margin-top: 50px;
+   
+    padding-right: 100px;
+    color: rgb(255, 255, 255);
+    background-color: black;
+    padding: 6px;
+    width: 150px;
+}
+#btn2{
+    margin-left: 110px;
+    margin-top: 50px;  
+    width: 250px;
+    color: rgb(255, 255, 255);
+    background-color: black;
+}
+
+.lista_dom{
+    top: 110px;
+    padding: 30px;
+    margin-left: 900px;
+    background-color: rgb(200, 202, 196);
+    width: 950px;
+    height: 750px;
+    position: absolute; 
+}
+
+.barra2{
+    margin-top: 20px;    
+    width: 900px;    
+    background-color: #000000; 
+}

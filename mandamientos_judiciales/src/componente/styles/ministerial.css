@@ -1,0 +1,82 @@
+.contenedor_ministerial{
+    top: 50px;
+    width: 1885px;
+    height: auto;  
+    margin-left: 5px;     
+    background: url("../public/imagenes/web-fondo.jpg") no-repeat center fixed;
+    background-size: cover; /* Esto ajustará la imagen para que cubra todo el contenedor */
+    background-position: center;
+    overflow: 'auto';
+   
+}
+.barraMin{
+    margin-top: 20px;    
+    width: 1800px;   
+    height: 1px;   
+    background-color: #000000; 
+}
+
+#mensajeMin{
+margin-left: 700px;
+color: blue;
+}
+
+/* formulario *********** */
+.contenedor_pri_min {
+    padding: 30px;
+    margin-left: 100px; 
+    width: 1700px;
+    height: auto;  
+    background-color: rgb(136, 140, 153);
+
+   
+}
+
+#ultimos_inp{
+    margin-left: 300px;
+}
+
+
+.datosMinisterial{
+    width: 1200px;
+    height: 650px;  
+   
+    margin-left: 200PX;
+
+}
+
+.b-mini{
+ margin-left: 20px;
+ margin-top: 100px;
+ color: aliceblue;
+ width: 300px;
+ height: 50px;  
+ 
+ background-color: black;
+}
+
+.btn-regMin{
+ margin-left: 200px;
+ margin-top: 80px;
+ color: aliceblue;
+ background-color: black;
+ width: 200px;
+ height: 40px;  
+}
+
+
+.lis-Datos{
+   top : 50px;
+   margin-left: 20px;
+}
+
+#botones_ministerial{
+    margin-top: 20px;
+    margin-left: 10px; 
+
+}
+
+label{
+    color: rgb(0, 0, 0);
+    font-size: 14px;
+}
